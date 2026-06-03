@@ -41,12 +41,6 @@ As a data-driven professional, I am dedicated to transforming complex, raw data 
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github.readme-stats.vercel.app/api?username=MartinusCS&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=a0abc0&icon_color=4285F4" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinusCS&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=a0abc0" alt="Top Languages" />
-</p>
-
 ### 📫 Connect with me
 
 <p align="left">
